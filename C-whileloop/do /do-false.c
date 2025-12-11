@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main() {
+    int i = 10;
+
+    do
+    {
+        printf("This will be printed once even though the condition is false.\n");
+        i++;
+    } while (i < 5);
+
+    return 0;
+    
+}

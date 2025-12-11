@@ -1,0 +1,8 @@
+/*
+Format Specifier	Data Type	
+%d or %i	          int	
+%f or %F	         float	
+%lf	                 double	
+%c	                  char	
+%s	`              Used for strings (text), which you will learn more about in a later chapter
+*/
